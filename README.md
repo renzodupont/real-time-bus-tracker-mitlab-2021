@@ -8,13 +8,13 @@ Real Time Bus Tracker
 
 This project shows the current place of each bus which travels between MIT and Harvard using the MBTA API. More information in https://api-v3.mbta.com/ - It uses a refresh rate of 15 seconds to avoid being banned.
 
-<br/><br/>
+<br/>
 It was created as part of a proposed assignment during the Full Stack Development Professional Certificate career in 2021,
-while learning to manipulate Map layers using Mapbox.<br/><br/>
+while learning to manipulate Map layers using Mapbox.<br/>
 
 It was developed using plain javascript and Bootstrap as a starting point for styles.
 
-<br/><br/>
+<br/>
 Check out this link to see another exercise using Maps: https://renzodupont.github.io/mit-career-2021/week-09/
 
 # How to Run
