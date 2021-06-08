@@ -15,6 +15,8 @@ It was developed using plain javascript and Bootstrap as a starting point for st
 
 Check out this link to see another exercise using Maps: https://renzodupont.github.io/mit-career-2021/week-09/
 
+<img src="preview.jpg"/>
+
 # How to Run
 
 1 - Clone the repository in your local computer<br/>
