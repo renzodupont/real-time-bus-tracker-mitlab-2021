@@ -20,7 +20,7 @@ Check out this link to see another exercise using Maps: https://renzodupont.gith
 # How to Run
 
 1 - Clone the repository in your local computer<br/>
-2 - Edit the mapboxFunctions.js file to include your own Mapbox API Key<br/>
+2 - Edit the mapboxFunctions.js file (first line) to include your own Mapbox API Key<br/>
 3 - Run index.html in your browser<br/>
 <br/>
 You can also see the last working version live in this link: https://renzodupont.github.io/mit-career-2021/week-09/bus-tracker/
