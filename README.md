@@ -1,2 +1,38 @@
-# real-time-bus-tracker-mitlab-2021
-Full Stack Development career assignment for Week 9
+### Real Time Bus Tracker - MIT Lab
+
+# Title
+
+Real Time Bus Tracker
+
+# Description
+
+This project shows the current place of each bus which travels between MIT and Harvard using the MBTA API. More information in https://api-v3.mbta.com/ - It uses a refresh rate of 15 seconds to avoid being banned.
+
+<br/><br/>
+It was created as part of a proposed assignment during the Full Stack Development Professional Certificate career in 2021,
+while learning to manipulate Map layers using Mapbox.<br/><br/>
+
+It was developed using plain javascript and Bootstrap as a starting point for styles.
+
+<br/><br/>
+Check out this link to see another exercise using Maps: https://renzodupont.github.io/mit-career-2021/week-09/
+
+# How to Run
+
+1 - Clone the repository in your local computer<br/>
+2 - Edit the mapboxFunctions.js file to include your own Mapbox API Key<br/>
+3 - Run index.html in your browser<br/>
+<br/>
+You can also see the last working version live in this link: https://renzodupont.github.io/mit-career-2021/week-09/bus-tracker/
+
+# Roadmap of future improvements
+
+- Show the direction of the bus in the marker so users can easily anticipate the route.
+
+# Contact info
+
+📫 https://www.linkedin.com/in/renzo-dupont-b9797941/ | https://twitter.com/renzodupont | https://instagram.com/renzodupont
+
+# License information
+
+MIT Licensed
