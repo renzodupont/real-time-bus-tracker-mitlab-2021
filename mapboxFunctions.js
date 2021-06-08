@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoicmVuem9kdXBvbnQiLCJhIjoiY2twazR6ODZ3MWY0djJubzlvaThuaGxmNiJ9.s3XwXRIYv-OPeHhQYrQvqQ';
+mapboxgl.accessToken = '--------- REPLACE THIS STRING WITH YOUR MAPBOX API KEY ---------';
 
 let map = null;
 let mapStyle = 'mapbox://styles/mapbox/navigation-day-v1'; // Default style
