@@ -11,11 +11,11 @@ This project shows the current place of each bus which travels between MIT and H
 It was created as part of a proposed assignment during the Full Stack Development Professional Certificate career in 2021,
 while learning to manipulate Map layers using Mapbox.
 
+<img src="preview.jpg"/>
+
 It was developed using plain javascript and Bootstrap as a starting point for styles.
 
 Check out this link to see another exercise using Maps: https://renzodupont.github.io/mit-career-2021/week-09/
-
-<img src="preview.jpg"/>
 
 # How to Run
 
@@ -25,7 +25,7 @@ Check out this link to see another exercise using Maps: https://renzodupont.gith
 <br/>
 You can also see the last working version live in this link: https://renzodupont.github.io/mit-career-2021/week-09/bus-tracker/
 
-# Roadmap of future improvements
+# Future improvements
 
 - Show the direction of the bus in the marker so users can easily anticipate the route.
 
