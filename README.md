@@ -31,7 +31,7 @@ You can also see the last working version live in this link: https://renzodupont
 
 # Contact info
 
-📫 https://www.linkedin.com/in/renzo-dupont-b9797941/ | https://twitter.com/renzodupont | https://instagram.com/renzodupont
+📫 https://www.linkedin.com/in/renzo-dupont-b9797941/ | https://twitter.com/renzodupont
 
 # License information
 
